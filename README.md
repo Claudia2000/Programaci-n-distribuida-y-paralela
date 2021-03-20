@@ -1,2 +1,2 @@
-# Programaci-n-distribuida-y-paralela
+# Programacion-distribuida-y-paralela
 Nuevos proyecto :D
